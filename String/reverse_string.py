@@ -1,3 +1,4 @@
+# reverse a string
 name = input("Enter string/name : ")
 
 # strlist = name.split()
